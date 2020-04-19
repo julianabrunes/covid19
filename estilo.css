@@ -1,0 +1,36 @@
+body {
+    background-image: url(imagem.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align-last: center;
+    color: #0e0101;
+}
+
+.header {
+    text-align-last: auto;
+}
+
+.imagem {
+   text-align-last: center;
+}
+
+.video1 {
+    width: 200px;
+    height: 200px;  
+    background-position-x: right;
+}
+
+.video2 {
+     background-position-y: left;
+     width: 200;
+}
+
+.contato{
+    text-align: right;
+
+}
+
+.footer {
+    box-sizing: border-box;
+    background-color: black;
+    text-align: center;
+}
